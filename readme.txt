@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 ok ,it's done.
  my new brancher test;
-
+ branch test test~~;
+ 
