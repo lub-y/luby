@@ -5,4 +5,9 @@ Git tracks changes of files.
 ok ,it's done.
  my new brancher test;
  branch test test~~;
+ 1
+ 2
+ 3
+ lubo 
+ heihei
  
